@@ -26,8 +26,8 @@
   },
   "adminBot": [
     "",
-    "",
-    "61585772322631"
+    "61579428280527",
+    "1B3GcGBqz"
   ],
   "developer": [
     "",
@@ -48,8 +48,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "X69X BOT V2",
-  "prefix": ")",
+  "nickNameBot": "𐌙Ꝋ𐌵𐌓 𐋅𐌄𐌀𐌓𐌕𐌁𐌄𐌀𐌕 😘",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
